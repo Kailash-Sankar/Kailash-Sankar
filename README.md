@@ -14,3 +14,9 @@
 - [Browser game with React](https://dev.to/ksankar/browser-game-with-react-5ckj)
 - [Build a function memoizer [Part-4]](https://dev.to/ksankar/build-a-function-memoizer-part-4-5cfc)
 <!-- BLOG-POST-LIST:END -->
+
+<!--]]
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kailash-Sankar&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kailash-Sankar&theme=apprentice&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
