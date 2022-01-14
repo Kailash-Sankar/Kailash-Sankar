@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ More: https://kailash-sankar.github.io
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Theming with React, Less and CSS variables](https://dev.to/ksankar/theming-with-react-less-and-css-variables-2pbg)
 - [Build a concurrency limiter](https://dev.to/ksankar/build-a-concurrency-limiter-55pp)
