@@ -1,8 +1,7 @@
 ### Hi there
 
-- I’m currently learning Dynamic programming
-- Reach me: https://www.linkedin.com/in/kailash-sankar/
-- More: https://kailash-sankar.github.io
+- Reach me at https://www.linkedin.com/in/kailash-sankar/
+- Know more at https://kailash-sankar.github.io
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
